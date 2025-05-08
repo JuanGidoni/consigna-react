@@ -10,7 +10,6 @@ export function Header() {
           alt="the logo of Pokemigapi"
           className="logo"
         />
-        <h1 className="title">Pokemigapi</h1>
       </div>
 
     </header>

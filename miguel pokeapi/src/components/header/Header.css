@@ -1,3 +1,15 @@
-.main-header{
-    background-color: #a82028;
+.main-header {
+    background-color: 	#c85048;
+    padding: 2rem;
+}
+
+.header-container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
 }
